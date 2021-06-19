@@ -6,7 +6,7 @@ export const Settings = () => {
   return (
     <>
       <div className="kontejner">
-        <h3>Dobrý den</h3>
+        <h3>Dobrý den Pavle</h3>
         <p>
           na této stránce naleznete přehled veškerých informací o svém účtu.
           <br />
